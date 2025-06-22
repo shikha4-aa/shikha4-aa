@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, I’m Shikha 👋 Currently in 3rd year pursuing B.Tech in Computer Science.<br><br>🔭I'm currently working on real-world full stack web projects + solving DSA problems on LeetCode. Grinding daily to level up both backend and brain.<br>🧑‍🤝‍🧑 I’m looking to collaborate on hackathons, web dev projects, and anything challenging that pushes limits.<br>🌱Right now mastering backend and competitive programming patterns
+Hey, I’m Shikha 👋 Currently in 3rd year pursuing B.Tech in Computer Science.<br><br>🔭I'm currently working on real-world full stack web projects + solving problems on LeetCode. Grinding daily to level up both backend and brain.<br>🧑‍🤝‍🧑 I’m looking to collaborate on hackathons, web dev projects, and anything challenging that pushes limits.<br>🌱Right now mastering backend and problem solving skill.
 
 
 ## 🌐 Socials:
